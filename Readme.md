@@ -48,4 +48,6 @@ python Main.py
 
 ## Dataset
 
-[Hugging Face: LanternCX/NaiLong-YOLOv5-PyTouch](https://huggingface.co/datasets/LanternCX/NaiLong-YOLOv5-PyTouch)
+<a href="https://universe.roboflow.com/demo-rab4f/nailong-bsifn">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
